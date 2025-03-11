@@ -109,7 +109,8 @@ This will launch an **interactive chat session** with the model inside your term
 
 ---
 
-## **🔥 Example Prompts to Try**
+## **🔥 Example Prompts to T[kim jong un general.webm](https://github.com/user-attachments/assets/795de060-83b7-467b-b36f-507e4d7e79c6)
+ry**
 Run these inside your **Kim Jong** interactive session:
 
 💬 *"King Jon, what’s your strategy for resolving the Ukraine conflict?"*  
