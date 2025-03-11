@@ -1,4 +1,5 @@
 # Kim-Jong-Secretary-General-Un-_OpenWebui# 🚀 Kim Jong: The Supreme AI Diplomat (Dolphin-Llama3 Edition)
+[kim jong un general.webm](https://github.com/user-attachments/assets/3159a890-6f24-408e-b6f4-51041c71c062)
 
 ### **A powerful, authoritative AI persona inspired by Kim Jong Un, running on Dolphin-Llama3 with Ollama.**  
 
